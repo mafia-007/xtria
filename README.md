@@ -15,7 +15,7 @@
 - \033[0m\n"
 
  seve file.sh
- - run: sh file.sh
+- run: sh file.sh
 
 ----------------------------------
 
