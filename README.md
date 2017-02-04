@@ -16,14 +16,15 @@
 
 seve file.sh
 run: sh file.sh
------------------------------------------
+
+----------------------------------
 
 #linux
 
 git clone https://github.com/mafia-007/mafia
 
---run
-
+run
+-----------
 - sh centos.sh	
 - sh debian.sh	
 - sh fedora.sh	
