@@ -1,6 +1,6 @@
 # logo mafia
 
-./mafia.sh
+sh xtria.sh
 
  [make font logo](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 
 ----------
@@ -21,7 +21,7 @@
 
 #linux
 
-git clone https://github.com/mafia-007/mafia
+git clone https://github.com/mafia-007/xtria
 
 run
 -----------
