@@ -14,8 +14,9 @@
      
 - \033[0m\n"
 
-_ seve file.sh
-_ run: sh file.sh
+ seve file.sh
+ ---
+ run: sh file.sh
 
 ----------------------------------
 
