@@ -21,3 +21,16 @@ run : sh file.sh
 #linux
 
 git clone https://github.com/mafia-007/mafia
+
+-- run
+
+- sh centos.sh	
+- sh debian.sh	
+- sh fedora.sh	
+- sh gnome.sh	
+- sh kali.sh	
+- sh linux.sh	
+- sh mint.sh	
+- sh redhat.sh	
+- sh suse.sh	
+- sh ubuntu.sh
