@@ -7,7 +7,7 @@
 # make logo
  
  
-- /bin/sh
+- #/bin/sh
 - echo "\033[38;5;110m
 
      font logo
