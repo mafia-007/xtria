@@ -2,9 +2,9 @@
 
 ./mafia.sh
 
-- [make font logo](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 
+ [make font logo](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 
 ----------
- make logo
+# make logo
  
  
 - /bin/sh
