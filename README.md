@@ -22,6 +22,7 @@ sh xtria.sh
 #linux
 
 git clone https://github.com/mafia-007/xtria
+cd xtria
 
 run
 -----------
